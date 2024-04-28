@@ -75,6 +75,8 @@ Beberapa fitur yang terdapat pada program ini, yaitu :
 
  - Login admin project dan recruiter: Recruiter dan admin project harus melakukan login agar dapat melakukan pekerjaannya. Admin project dapat mengatur data mulai dari data perusahaan hingga data recruiter kecuali kontrak. Recruiter dapat mengatur data kontrak untuk seorang freelancer yang diterima kerja di perusahaan terkait.
 
+ - gfgf
+
  
 
 
