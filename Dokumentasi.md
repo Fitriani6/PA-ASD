@@ -75,7 +75,9 @@ Beberapa fitur yang terdapat pada program ini, yaitu :
 
  - Login admin project dan recruiter: Recruiter dan admin project harus melakukan login agar dapat melakukan pekerjaannya. Admin project dapat mengatur data mulai dari data perusahaan hingga data recruiter kecuali kontrak. Recruiter dapat mengatur data kontrak untuk seorang freelancer yang diterima kerja di perusahaan terkait.
 
- 
+ > 1. Login dan Registrasi User
+Login bisa dilakukan oleh user atau admin. User harus melakukan login terlebih dahulu sebelum dapat melakukan pelatihan atau untuk menyelesaikan project.  Jika user belum terdaftar, maka user dapat melakukan registrasi terlebih dahulu.
+
 
 
 
